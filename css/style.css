@@ -11,7 +11,7 @@ button{
 }
 
 header{
-    background-image: url("../Images/Background\ Image.png");
+    background-image: url("../images/Background\ Image.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -76,7 +76,7 @@ nav a:hover{
 
 .happy{
     height: 50vh;
-    background-image: url("../Images/739905.png");
+    background-image: url("../images/739905.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -145,7 +145,7 @@ textarea{
 /* Travel section starts */
 
 .travel{
-    background-image: url("../Images/pexels-photo-91229.jpeg");
+    background-image: url("../images/pexels-photo-91229.jpeg");
     background-size: cover;
     background-position: center top;
     background-attachment: fixed;
@@ -190,7 +190,7 @@ textarea{
 
 .objective{
     padding-top: 2rem;
-    background-image: url("../Images/Footer.png");
+    background-image: url("../images/Footer.png");
     background-size: cover;
     min-height: 100vh;
 
