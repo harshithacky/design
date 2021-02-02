@@ -260,4 +260,21 @@ textarea{
         top: 40%;
         left: 18%;
     }
+
+    .happy h1{
+        font-size: 1.2rem;
+    }
+
+    .travel button{
+        padding: 0.4rem 1.2rem;
+        
+    }
+
+    .follow-btn{
+        margin-left: 0;
+    }
+    
+    .read-more-btn{
+        margin-right: 0;
+    }
 }
